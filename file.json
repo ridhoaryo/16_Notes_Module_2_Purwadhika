@@ -1,0 +1,20 @@
+[
+    {
+        "no": 1,
+        "nama": "Andi",
+        "kota": "Jakarta",
+        "pekerjaan": "Ojol"
+    },
+    {
+        "no": 2,
+        "nama": "Budi",
+        "kota": "Bandung",
+        "pekerjaan": "Akuntan"
+    },
+    {
+        "no": 3,
+        "nama": "Caca",
+        "kota": "Surabaya",
+        "pekerjaan": "IRT"
+    }
+]
