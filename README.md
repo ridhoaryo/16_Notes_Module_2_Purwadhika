@@ -1,6 +1,6 @@
 # Note and Quiz Day 16 Purwadhika Module 2 Job Connector Data Science
 
-Pada repo ini, saya akan menjelaskan tentang mini project saya, yaitu memasukkan data baru dan mengupdate data ke Excel melalui Python.
+Pada repo ini, saya akan menjelaskan tentang mini project saya, yaitu memasukkan data baru dan mengupdate data ke Excel melalui Python. Yaitu dari file 5_quiz_input_from_python.py dan 6_quiz_update_from_python.py    
 
 ## 1. Membuat file excel awal
 ```
